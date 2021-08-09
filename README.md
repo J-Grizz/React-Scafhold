@@ -7,5 +7,6 @@
 2. Setup/prep codebase for new repository
 3. Create new project on github
 4. Update reposity with new remote: `git remote set-url origin <new remote origin>`
+5. Can use `git remote -v` to verify update
 
 And thats that.
